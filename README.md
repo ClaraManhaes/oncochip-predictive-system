@@ -41,7 +41,8 @@ O **OncoChip** é uma proposta de solução biotecnológica e analítica concebi
 [ Modelo Preditivo Ponderado (Ancestralidade Mercosul) ] 
            │
            ▼
-[ Painel de Suporte Clínico: Estratificação de Risco & Mitigação de Sobretratamento ] 
+[ Painel de Suporte Clínico: Estratificação de Risco & Mitigação de Sobretratamento ]```
+
 
 ### 📈 Impacto Econômico & Saúde Baseada em Valor (VBHC)
 * **Otimização de Sinistralidade:** Alocação racional de terapias biológicas e quimioterápicas de alto custo para operadoras de saúde e sistema público.
